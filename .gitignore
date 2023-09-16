@@ -1,0 +1,6 @@
+# AMBIENTE VIRTUAL
+.env/ 
+
+#PASTAS DAS IMAGENS
+imagens-bases/
+imagens-reacortadas/
